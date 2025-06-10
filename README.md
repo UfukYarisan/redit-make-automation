@@ -68,10 +68,6 @@ To set up and run this automation:
 
 ## 🔧 Potential Improvements
 
-Here are some ways this Reddit → Gemini → Notion automation can be expanded or improved:
-
-## 🔧 Potential Improvements
-
 Here are several ways to enhance and expand the Reddit → Gemini → Notion automation:
 
 ### 🧠 Language Learning Features
